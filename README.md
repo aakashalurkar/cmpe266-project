@@ -5,10 +5,10 @@
 ## Project Milestone II
 
 ### University Name
-San Jose State University[Link](http://www.sjsu.edu/)
+San Jose State University [Link to Website](http://www.sjsu.edu/)
 
 ### Project Advisor
-Sanjay Garje [github](https://www.linkedin.com/in/sanjaygarje/)
+Sanjay Garje [Link to Github](https://www.linkedin.com/in/sanjaygarje/)
 
 ### Team Members
 |Name|Student ID|LinkedIn|
@@ -28,7 +28,7 @@ Our Big Data application will analyze incoming twitter feed to gauge the market 
 
 
 ### Detailed Configuration
-Detailed Configuration is listed in the Project Journal
+Detailed Configuration is listed in the [Project Journal](https://github.com/aakashalurkar/cmpe266-project/blob/master/ProjectJournal.md)
 
 ### Technology Stack
 |Task|Technology Used|
