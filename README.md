@@ -6,6 +6,7 @@
 [Project Milestone Report](https://github.com/aakashalurkar/cmpe266-project/blob/master/CMPE_266_Milestone_1.pdf)
 
 ## Project Milestone II
+[Project Milestone II Report](https://github.com/aakashalurkar/cmpe266-project/blob/master/CMPE_266_Project_Milestone_II.pdf)
 
 ### University Name
 San Jose State University [Link to Website](http://www.sjsu.edu/)
@@ -46,7 +47,7 @@ Detailed Configuration is listed in the [Project Journal](https://github.com/aak
 
 
 ### Sample Demo Screenshots
-Sample Demo Screenshots are shared in Sample Demo Screenshots folder.
+Sample Demo Screenshots are shared in [Project Milestone II Report](https://github.com/aakashalurkar/cmpe266-project/blob/master/CMPE_266_Project_Milestone_II.pdf).
 
 
 ### Configuration Screenshots
