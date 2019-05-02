@@ -1,6 +1,9 @@
 # Project ProjectJournal
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e740cf6a498a41ff5844fa732322f5cca702b62e
 
 ## S3
 * Buckets
