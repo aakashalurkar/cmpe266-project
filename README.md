@@ -34,12 +34,15 @@ Our Big Data application will analyze incoming twitter feed to gauge the market 
 Detailed Configuration is listed in the [Project Journal](https://github.com/aakashalurkar/cmpe266-project/blob/master/ProjectJournal.md)
 
 ### Technology Stack
-* Amazon Comprehend
-* Amazon S3
-* Amazon Firehose
-* Amazon Lambda
-* Amazon Athena
-* Amazon Quicksight
+* Amazon Comprehend - NLP
+* Amazon S3 - Data Storage
+* Amazon Firehose - Data Collection
+* Amazon Lambda - Serverless Computing
+* Amazon Athena - Serverless Interactive Query Service
+* Amazon Quicksight - Data Analysis
+* Amazon EC2 - Compute
+* Twitter API - Streaming Data Source
+* Stock API - Streaming Data Source
 
 
 ### Sample Demo Screenshots
