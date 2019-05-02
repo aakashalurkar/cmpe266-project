@@ -28,3 +28,6 @@
 * Triggers
   * Event Type : Amazon S3 Object Creation
   * Prefix: raw/
+
+## Athena
+[Athena SQL Scripts](https://github.com/aakashalurkar/cmpe266-project/blob/master/sql_scripts.txt)
