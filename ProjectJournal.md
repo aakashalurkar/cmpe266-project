@@ -1,12 +1,5 @@
 # Project ProjectJournal
 
-## CloudStack
-ApplicationName	              : Social-Media-Analytics
-InstanceKeyName	              : Twitter-Cmpe266
-PublicSubnet1CIDR	            : 10.193.10.0/24
-TwitterLanguages	            : 'en'
-TwitterTermList	              : 'AWS', 'Amazon'
-VpcCIDR	                      : 10.193.0.0/16
 
 
 ## S3
